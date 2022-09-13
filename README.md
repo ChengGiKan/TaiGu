@@ -1,5 +1,5 @@
 # TaiGu
-Almost Everything about TaiGu for programmers and font designers.
+Almost everything about TaiGu for programmers and font designers.
 
 ## Be aware of the facts: (2022.09.13)
 
