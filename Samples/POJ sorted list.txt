@@ -8,8 +8,10 @@
 # Data:    2022.09.13
 # Author:  Kán Chèng-Gī = Chien Cheng-I
 # License: MIT
-# Note:    This list has been checked according to the alphabetical order in the "source 1".
-#          There are 8352 entries in this list.
+# Note:    1. This list has been checked according to the alphabetical order in the "source 1".
+#          2. There are 8352 entries in this list.
+#          3. There are some words, which are (a) not spelt correctly, or (b) pronounceable (spelt correctly). 
+#             They are listed, because they appear in the above sources.
 # The mark '#' should be treated as a comment mark, which is the same as the comment in the programming language Python.
 A
 a
