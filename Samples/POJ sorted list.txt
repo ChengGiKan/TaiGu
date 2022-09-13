@@ -8,7 +8,7 @@
 # Data:    2022.09.13
 # Author:  Kán Chèng-Gī = Chien Cheng-I
 # License: MIT
-# Note:    This list has been checked according to the alphabet order in the "source 1".
+# Note:    This list has been checked according to the alphabetical order in the "source 1".
 #          There are 8352 entries in this list.
 # The mark '#' should be treated as a comment mark, which is the same as the comment in the programming language Python.
 A
