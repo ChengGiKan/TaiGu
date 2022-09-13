@@ -9,5 +9,5 @@ Almost Everything about TaiGu for programmers and font designers.
 
 ## About the Programmers:
 There are (at least) two types of them:
-1. Those who think, they can control everything.
+1. Those who thought, they could control everything.
 2. Those who respect to users, even users make mistakes. (So do the programmers.)
