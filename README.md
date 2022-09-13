@@ -24,6 +24,6 @@ The Taiwanese vowel o͘ with a tone mark (diacritic) has different code seqence 
 
 The vowel o͘ is a composition of o + U+0358, since the tone mark will be given after the vowel in speaking. So the nature wrinting order follows this speaking sequence.
 
-That code sequence in TW_NWO is: o, U+0358, U+030X. Where U+030X are diacritics.
+* That code sequence in TW_NWO is: o, U+0358, U+030X. Where U+030X are diacritics.
 
-That code sequence in TW_NFD is: o, U+030X, U+0358. Where U+030X are diacritics. This order comes from the normalization algorithm of Unicode.
+* That code sequence in TW_NFD is: o, U+030X, U+0358. Where U+030X are diacritics. This order comes from the normalization algorithm of Unicode.
