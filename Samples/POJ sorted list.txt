@@ -1,5 +1,6 @@
 # System: POJ
 # Code sequence: TW_NWO
+# Tone Mark Position: Same as <<The Holy Bible, Today's Taiwanese Version, Romanized Edition>>.
 # Encoding: utf-8
 # Sources: 1. <<A Dictionary of Amoy Vernacular spoken throughout the prefectures of Chin-chiu, Chiang-chiu and Formosa>>
 #          2. Converted to POJ from the Appendix 1 of <<臺灣閩南語羅馬字拼音方案使用手冊>>
