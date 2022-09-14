@@ -23,7 +23,7 @@ There are (at least) two types of them:
 ## Romanized writing systems:
 1. POJ: This system is currently used by the Presbyterian Churchs in Taiwan.
 2. POJts: An old system of POJ with the difference: ts will be applied before the vowels a, o, u, instead of ch.
-3. TLJ (TL): This system is officially promoted by Taiwan's Ministry of EducationMinistry of Education.
+3. TLJ (TL): This system is officially promoted by Taiwan's Ministry of Education.
 
 ## Positioning rules:
 1. ttv: The rule used in <<The Holy Bible, Today's Taiwanese Version, Romanized Edition>> for POJ.
