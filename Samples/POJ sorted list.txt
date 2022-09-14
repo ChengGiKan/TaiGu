@@ -7,7 +7,7 @@
 # Content: The list of sorting order in POJ with possible words.
 # Data:    2022.09.13
 # Author:  Kán Chèng-Gī = Chien Cheng-I
-# License: MIT
+# License: CC BY-ND
 # Note:    1. This list has been checked according to the alphabetical order in the "source 1".
 #          2. There are 8352 entries in this list.
 #          3. There are some words, which are (a) not spelt correctly, or (b) pronounceable (spelt correctly). 
